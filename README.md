@@ -43,7 +43,7 @@ the car controls.
 2. Arduino software
     <img src="./images/arduino.png" width="720" title="arduino image"/>
 3. Proteus 8 Professional (for Drawing and testing the circuit)
-<img src="./images/proteus.png" width="720" title="proteus image"/>
+<img src="./images/Proteus.png" width="720" title="proteus image"/>
     <br>
     `Added Library on Proteus`
     ---
