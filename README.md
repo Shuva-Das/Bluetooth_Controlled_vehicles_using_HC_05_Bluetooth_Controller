@@ -66,6 +66,7 @@ the car controls.
 8. 9V Battery^2 with Connector
 9. LED (RED^2, YELLOW^2)
 10. Android Phone
+<img src="./images/component.PNG" width="720" title="block diagram image"/>
 
 
 <br/>
@@ -78,7 +79,7 @@ the car controls.
 
 <br/>
 
-`#Cercuit Diagram:`
+`#Circuit Diagram:`
 ---
 ---
 
