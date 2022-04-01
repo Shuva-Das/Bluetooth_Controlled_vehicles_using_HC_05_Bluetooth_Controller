@@ -39,11 +39,11 @@ the car controls.
 ---
 
 1. Arduino Bluetooth Controller Application (Arduino Car -- On Playstore)
-    <img src="./images/software.JPG" width="720" title="application image"/>
+    <img src="./images/software.jpg" width="720" title="application image"/>
 2. Arduino software
-    <img src="./images/arduino.PNG" width="720" title="arduino image"/>
+    <img src="./images/arduino.png" width="720" title="arduino image"/>
 3. Proteus 8 Professional (for Drawing and testing the circuit)
-<img src="./images/proteus.PNG" width="720" title="proteus image"/>
+<img src="./images/proteus.png" width="720" title="proteus image"/>
     <br>
     `Added Library on Proteus`
     ---
@@ -74,7 +74,7 @@ the car controls.
 ---
 ---
 
-<img src="./images/blockDiagram.PNG" width="720" title="block diagram image"/>
+<img src="./images/blockDiagram.png" width="720" title="block diagram image"/>
 
 <br/>
 
@@ -156,10 +156,10 @@ delay(100);
 `#System Implementation & System Testing: Snapshot`
 ---
 ---
-<img src="./images/1.JPG" width="720" title="car image"/>
-<img src="./images/2.JPG" width="720" title="car image"/>
-<img src="./images/3.JPG" width="720" title="car image"/>
-<img src="./images/4.JPG" width="720" title="car image"/>
+<img src="./images/1.jpg" width="720" title="car image"/>
+<img src="./images/2.jpg" width="720" title="car image"/>
+<img src="./images/3.jpg" width="720" title="car image"/>
+<img src="./images/4.jpg" width="720" title="car image"/>
 
 <br/>
 
